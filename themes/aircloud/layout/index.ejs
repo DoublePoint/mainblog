@@ -7,14 +7,14 @@ layout: layout
     <div class="post-preview">
         <div class="post-time"><%= post.date.format(config.date_format) %></div>
         <div class="post-info">
-            <a href="<%- full_url_for(post.path) %>">
+            <a href="<%- config.root %><%- post.path %>">
                 <h3>
                     <%- (post.title || "Untitled").replace(/[<>&"]/g,function(c){
                         return {'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c];
                     }) %>
                 </h3>
             </a>
-            <p>
+            <!-- <p>
                 <% if (post.tags.length){ %>
                 <span>/</span>
                 <% post.tags.forEach(function(tag){ %>
@@ -22,7 +22,7 @@ layout: layout
                 <span>/</span>
                 <% }) %>
                 <% } %>
-            </p>
+            </p> -->
         </div>
     </div>
     <% }); %>
