@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DoublePoint 产品日志</title>
+  <icon>https://www.gravatar.com/avatar/4c22f429ef7b66a809649a76aa934f5e</icon>
+  <subtitle>写写代码，做做工具</subtitle>
+  <link href="https://doublepoint.github.io/mainblog/atom.xml" rel="self"/>
+  
+  <link href="https://doublepoint.github.io/mainblog/"/>
+  <updated>2024-01-24T12:21:09.053Z</updated>
+  <id>https://doublepoint.github.io/mainblog/</id>
+  
+  <author>
+    <name>Double Point</name>
+    <email>997820126liu@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一个不算工具的工具</title>
+    <link href="https://doublepoint.github.io/mainblog/2024/01/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E7%AE%97%E5%B7%A5%E5%85%B7%E7%9A%84%E5%B7%A5%E5%85%B7/"/>
+    <id>https://doublepoint.github.io/mainblog/2024/01/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E7%AE%97%E5%B7%A5%E5%85%B7%E7%9A%84%E5%B7%A5%E5%85%B7/</id>
+    <published>2024-01-01T12:14:15.000Z</published>
+    <updated>2024-01-24T12:21:09.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>1本文开始了我的第一个不算工具的工具的写作历程。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1本文开始了我的第一个不算工具的工具的写作历程。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="产品" scheme="https://doublepoint.github.io/mainblog/tags/%E4%BA%A7%E5%93%81/"/>
+    
+  </entry>
+  
+</feed>
