@@ -6,6 +6,7 @@
     "version": "5.4.2"
   },
   "dependencies": {
+    "@upupming/hexo-renderer-markdown-it-plus": "^2.0.2",
     "ejs": "^2.5.5",
     "hexo": "^5.4.2",
     "hexo-deployer-git": "^4.0.0",
@@ -16,7 +17,6 @@
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-tag": "^1.0.0",
     "hexo-renderer-ejs": "^1.0.0",
-    "hexo-renderer-marked": "^4.0.0",
     "hexo-renderer-pug": "^2.0.0",
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
