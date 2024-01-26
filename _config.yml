@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: DoublePoint 产品日志
+title: DoublePoint的产品日志
 subtitle: 
 author: Double Point
 language: zh
@@ -21,19 +21,19 @@ permalink_defaults:
 
 # Site settings
 # 网站综合内容设置：
-SEOTitle: DoublePoint Double Point
+SEOTitle: DoublePoint
 email: 997820126liu@gmail.com
 description: "DoublePoint 产品日志"
 keyword: "DoublePoint 产品日志"
 
 # SNS settings
 # 一些社交平台地址，支持以下几种：
-# weibo_username:     3286578617
-# zhihu_username:     ai-er-lan-xue-da
+# weibo_username:     
+# zhihu_username:     
 github_username:    DoublePoint
 twitter_username:   woshixiaoliba
-# facebook_username:  xiaotao.nie.5
-# linkedin_username:  小涛-聂-80964aba
+# facebook_username:  
+# linkedin_username:  
 
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
