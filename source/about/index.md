@@ -6,14 +6,10 @@ comments: true
 ---
 
 E-mail: 997820126liu@gmail.com
-Brief：Javascript/Rust
 常用网名：DoublePoint
 
-有一个网站能够记录自己的产品开发历程，也为他人做个参考
+## 赞助
 
-> 本页会存放一些琐碎个人思考记录
+感谢以下人员的赞助!
 
-* 2024.01.01
-
-**新的开始：**
-开始写点东西
+<a href="https://doublepoint.github.io/mainblog/about/"><img src="https://doublepoint.gitee.io/images/notiontodo/contributeors.svg" /></a>
