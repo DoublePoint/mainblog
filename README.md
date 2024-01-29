@@ -1,6 +1,6 @@
 ## Hexo-Aircloud-Blog: A DEMO For [Hexo-Theme-AirCloud](https://github.com/aircloud/hexo-theme-aircloud)
 
-> [预览地址]([http://niexiaotao.cn/](https://doublepoint.github.io/mainblog/))
+> [**预览地址**](https://doublepoint.github.io/mainblog/)
 
 ## 使用方式
 
