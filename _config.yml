@@ -50,18 +50,19 @@ comment:
   type: giscus
   script: |
       <script src="https://giscus.app/client.js"
-          data-repo="aircloud/hexo-aircloud-blog"
-          data-repo-id="MDEwOlJlcG9zaXRvcnkxMjkwNDgyNjg="
-          data-category="Announcements"
-          data-category-id="DIC_kwDOB7EezM4COhKJ"
-          data-mapping="title"
-          data-reactions-enabled="1"
-          data-emit-metadata="0"
-          data-input-position="bottom"
-          data-theme="light"
-          data-lang="zh-CN"
-          crossorigin="anonymous"
-          async>
+        data-repo="DoublePoint/mainblog"
+        data-repo-id="R_kgDOLJba8Q"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLJba8c4Ccw7d"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
       </script>
 
 #comment:
